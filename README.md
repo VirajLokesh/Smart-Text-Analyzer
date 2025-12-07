@@ -9,7 +9,9 @@ It processes and analyzes text data from a CSV file and helps in understanding b
 Smart-Text-Analyzer/
 
 ├── script.py # Main Python script for text analysis
+
 ├── dataset.csv # Input dataset containing text
+
 └── README.md # Project documentation
 
 
