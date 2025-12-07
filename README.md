@@ -7,8 +7,11 @@ It processes and analyzes text data from a CSV file and helps in understanding b
 
 ## 📁 Project Structure
 Smart-Text-Analyzer/
+
 ├── script.py # Main Python script for text analysis
+
 ├── dataset.csv # Input dataset containing text
+
 └── README.md # Project documentation
 
 
@@ -33,22 +36,22 @@ Smart-Text-Analyzer/
 
 ## 📊 Dataset Information
 
--The dataset is stored in updated new nlp dataset.csv
--It contains text data used for analysis and processing
--You may replace this file with your own dataset for custom testing
+- The dataset is stored in updated new nlp dataset.csv
+- It contains text data used for analysis and processing
+- You may replace this file with your own dataset for custom testing
 
 
 ## 🎯 Use Cases
 
--Learning Natural Language Processing (NLP)
--Text preprocessing and analysis
--Academic mini-project
--Resume / portfolio project
+- Learning Natural Language Processing (NLP)
+- Text preprocessing and analysis
+- Academic mini-project
+- Resume / portfolio project
 
 
 ## 👨‍💻 Author
 
--Viraj (Allika Lokesh)
--GitHub: https://github.com/VirajLokesh
+- Viraj (Allika Lokesh)
+- GitHub: https://github.com/VirajLokesh
 
 
